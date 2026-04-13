@@ -5,7 +5,7 @@
   <a href="https://topmate.io/beyond_resume">
     <img src="https://img.shields.io/badge/topmate-pink?style=for-the-badge&logo=topmate&logoColor=white" alt="Topmate Badge"/>
   </a>
-  <a href="https://www.linkedin.com/company/beyond-resumes/">
+  <a href="https://www.linkedin.com/company/108240029/admin/page-posts/published/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/beyond.resume/">
