@@ -23,31 +23,31 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3>Founder of Beyond Resumes | Career Strategist & Content Creator</h3>
+<h3>Founder of Beyond Resumes | AI-Powered Career Strategist</h3>
 
 <p align="center">
-  Helping professionals build personal brands that speak louder than a two-page document. 
-  Through <b>Beyond Resumes</b>, I focus on ATS-friendly storytelling, LinkedIn optimization, 
-  and empowering candidates to navigate the modern job market with confidence.
+  Bridging the gap between <b>Human Creativity</b> and <b>AI Efficiency</b>. 
+  I help professionals leverage AI tools to build powerful personal brands and 
+  master the modern, tech-driven job market.
 </p>
 </div>
 
 ---
 
 ### 🚀 About Beyond Resumes
-**Beyond Resumes** is a career services platform dedicated to helping job seekers transition from "just another applicant" to "the ideal candidate." We specialize in:
-- **Resume Storytelling:** Crafting ATS-compliant resumes that highlight impact, not just responsibilities.
-- **LinkedIn Optimization:** Building a professional presence that attracts recruiters and industry leaders.
-- **Career Mentorship:** Bridging the gap between academic knowledge and industry requirements.
+**Beyond Resumes** is evolving the job search experience by blending traditional career coaching with cutting-edge technology. We specialize in:
+- **AI-Enhanced Storytelling:** Using AI to identify key impact metrics and optimize resume language for modern ATS.
+- **Smart LinkedIn Optimization:** Building data-backed professional profiles that trigger recruitment algorithms.
+- **AI Literacy for Job Seekers:** Training candidates on how to use ChatGPT and other tools for interview prep and cover letters.
 
-### 🛠️ What I Offer (via Topmate)
-I provide 1:1 sessions to help you level up your professional game:
-* **Resume Reviews:** Deep-dive audits to ensure your CV passes the 6-second recruiter test.
-* **LinkedIn Makeovers:** Strategies to turn your profile into an inbound lead machine.
-* **Career Consultation:** Personalized guidance for freshers and experienced professionals looking for a pivot.
-* **Mock Interviews:** Real-world practice to refine your delivery and confidence.
+### 🛠️ AI-Powered Services (via Topmate)
+I offer specialized sessions to help you integrate AI into your career workflow:
+* **AI Resume Audits:** Using premium tools to ensure your CV is parsed correctly by AI-driven hiring platforms.
+* **LinkedIn Algorithm Strategy:** Strategies to boost your visibility using AI-assisted content creation.
+* **AI Tool Consultation:** Learn which AI tools (and prompts) will save you hours in your job hunt.
+* **Mock Interviews:** Combining human feedback with AI-driven behavioral analysis.
 
-👉 **[Book a session with me here](https://topmate.io/beyond_resume)**
+👉 **[Upgrade your career with AI here](https://topmate.io/beyond_resume)**
 
 ---
 
@@ -56,5 +56,5 @@ I provide 1:1 sessions to help you level up your professional game:
 </div>
 
 <p align="center">
-  <i>"Your resume tells your history; your brand tells your future."</i>
+  <i>"AI won't replace you, but a professional using AI will."</i>
 </p>
