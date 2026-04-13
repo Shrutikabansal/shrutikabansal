@@ -3,7 +3,7 @@
 
 <div id="badges">
   <a href="https://topmate.io/beyond_resume">
-    <img src="https://img.shields.io/badge/topmate-pink?style=for-the-badge&logo=topmate&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/topmate-pink?style=for-the-badge&logo=topmate&logoColor=white" alt="Topmate Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/shrutika-bansal-b23902129/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
